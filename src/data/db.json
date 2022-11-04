@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ana",
+      "email": "anac.rojas88@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "1234",
+      "email": "anac.rojas88@gmail.com",
+      "password": "12343",
+      "id": 2
+    },
+    {
+      "name": "JUAN CAMILO",
+      "email": "anac.rojas88@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "JUAN CAMILO",
+      "email": "anac.rojas88@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "juan",
+      "email": "kmilo8433@gmail.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "juan",
+      "email": "kmilo8433@gmail.com",
+      "password": "12",
+      "id": 6
+    }
+  ],
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "khanAcademy Pizza",
+      "description": "Una pizza con tantos sabores que no alcanzarás a comprenderlos antes de acabarla",
+      "price": 19000,
+      "image": "https://img.freepik.com/foto-gratis/pizza-ingredientes-mixtos-tabla-madera_114579-9317.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Master CSS Pizza",
+      "description": "Deliciosa Pizza clásica, con orilla de pan esponjoso. Es un manjar, si estás a punto de enviar cambiosa producción un viernes, necesitarás una de estas.",
+      "price": 25000,
+      "image": "https://i.pinimg.com/736x/d5/9b/8b/d59b8bd105d0432398175b856644f580.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pizza super especial para Frontends",
+      "description": "La pizza con mejor experiencia de usuario que podrás encontrar, deliciosa y dinámica.",
+      "price": 28000,
+      "image": "https://i.ibb.co/chyJjjj/saundarya-srinivasan-60nz-TP7-h-MQ-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pizza Javascript + React",
+      "description": "Deliciosa Pizza super especial, con un toque de react.",
+      "price": 24000,
+      "image": "https://s4d-images.telepizza.es/Products/Original/Carbonara-2616.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Pizza clasica Html + Javascript + Css",
+      "description": "Disfruta de la más delicisa terna del sabor, maquetada con los mejores ingredientes del mercado.",
+      "price": 17000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIJcQBI1TdpkUeDMXV4Z4AXR2Km4Zikrn2UQxwnk2GsW4Njng0_jZgQAOLmGz-zyKB4M&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Pizza React + Bootstrap",
+      "description": "Sabrosa pizza con los mejores componentes que renderizan inigualables sabores en tu paladar.",
+      "price": 22000,
+      "image": "https://images.squarespace-cdn.com/content/v1/5a4fc9a0a803bbc5dbd3a234/1562333111078-VMUEU7Z56TTS9A1XS53X/Spicy-Pepper-Chicken-Pizza.jpg?format=2500w"
+    },
+    {
+      "id": 7,
+      "name": "Pizza Material UI",
+      "description": "Probarla es una experiencia que activará todos tus sentidos .",
+      "price": 26000,
+      "image": "https://www.galbani.fr/wp-content/uploads/2017/07/pizza_italia.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pizza con componentes y extra de react-router-Dom",
+      "description": "Pizza con adición de los mejores ingredientes perfectamente conectados entre sí.",
+      "price": 24000,
+      "image": "https://i.ibb.co/5sJ79Y8/ivan-torres-MQUqbmsz-GGM-unsplash.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Combo Pizza node-module + .gitingnore",
+      "description": "Excelente combo para disfrutar junto a otros Frontends",
+      "price": 29000,
+      "image": "https://images.squarespace-cdn.com/content/v1/5a5ed8e8692ebea13d9ef707/1634231760420-OD5SQ2PFKI7Q21U33VUX/Mike+Spear+-+.jpg?format=2500w"
+    },
+    {
+      "id": 10,
+      "name": "Pizza npm-install pepperoni",
+      "description": "Deliciosa Pizza con pe.",
+      "price": 26000,
+      "image": "https://i.ibb.co/d6r4JGM/mahyar-motebassem-p-GA4z-Hvpo5-E-unsplash.jpg"
+    }
+  ],
+  "compra": [
+    {
+      "id": 1,
+      "name": "Ana",
+      "card": "123",
+      "direction": "cra 66",
+      "quantity": 1,
+      "price": 19000
+    },
+    {
+      "name": "carlos",
+      "card": "23445",
+      "direction": "cra 15",
+      "quantity": "2",
+      "price": "38000",
+      "id": 2
+    }
+  ]
+}
